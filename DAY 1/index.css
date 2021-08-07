@@ -1,0 +1,18 @@
+.my-container{
+    background-color: blue;
+    height: 600px;
+    align-items: center;
+}
+.block{
+    height:auto;
+    min-height:150px;
+}
+.row1{
+    background-color:lightblue;
+}
+.row2{
+    background-color:aqua;
+}
+.row3{
+    background-color:cornflowerblue
+}
