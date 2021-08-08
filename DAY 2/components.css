@@ -1,0 +1,16 @@
+.title1{
+    padding-top: 10px;
+    color: blue;
+}
+.card-title{
+    color: rgb(73, 5, 105);
+}
+.card-text{
+    color: rgb(151, 4, 4);
+}
+img{
+    height: 200px;
+}
+.card-body{
+    height: 300px;
+}
